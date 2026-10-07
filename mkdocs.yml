@@ -1,0 +1,13 @@
+site_name: Teoria dei Giochi e Motori Algoritmici
+site_description: Documentazione tecnica e analisi algoritmica dei motori di scacchi, risoluzione computazionale delle dame e processi stocastici del backgammon.
+site_author: Poyesh Software & Game Theory Research
+repo_url: https://github.com/poyeshsoftware/game-theory-docs
+
+nav:
+  - Home: index.md
+  - Scacchi Moderni: architettura-motori-scacchi.md
+  - Dama Computazionale: risoluzione-dama-chinook.md
+  - Backgammon e Probabilità: backgammon-markov-dadi-crittografici.md
+
+theme:
+  name: readthedocs
